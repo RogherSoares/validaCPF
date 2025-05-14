@@ -11,13 +11,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(155, 98, 98);
+    background-color: rgb(240, 240, 240); 
 }
 .form-container {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255); 
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 5px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px; 
 }
 .form-container input {
     display: block;
@@ -29,7 +29,7 @@ body {
 .form-container button {
     padding: 10px;
     width: 100%;
-    background-color: rgb(250, 98, 98);
+    background-color: rgb(33, 150, 243); 
     border: none;
     color: rgb(255, 255, 255);
     border-radius: 5px;
@@ -42,10 +42,10 @@ body {
     display: none;
 }
 .message.success {
-    background-color: rgb(76, 175, 80);
+    background-color: rgb(76, 175, 80); 
     color: rgb(255, 255, 255);
 }
 .message.error {
-    background-color: rgb(244, 67, 54);
+    background-color: rgb(244, 67, 54); 
     color: rgb(255, 255, 255);
 }
