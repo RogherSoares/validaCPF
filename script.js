@@ -53,4 +53,6 @@ document.getElementById("cpfForm").addEventListener("submit", function(e) {
         messageDiv.textContent = "CPF Inválido!";
         messageDiv.className = "message error";
     }
+
+    messageDiv.style.display = "block";
 });
