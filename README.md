@@ -40,6 +40,6 @@ A função `validarCPF(cpf)`:
 
 Clone este repositório:
 
-git clone https://github.com/RogherSoares/validador-cpf.git <br>
+git clone https://github.com/RogherSoares/validaCPF.git <br>
 Abra o arquivo index.html em seu navegador. <br>
 Digite um CPF no campo indicado e clique em Validar.
